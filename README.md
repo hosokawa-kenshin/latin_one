@@ -53,6 +53,13 @@ flutter pub get
 flutter run
 ```
 
+## 関連リポジトリ
+### バックエンドアプリケーション
+- [latin_one_server](https://github.com/fujiwara-e/latin_one_server) - バックエンドサーバアプリケーション
+
+### コンソールアプリケーション
+- [latin_one_client](https://github.com/fujiwara-e/latin_one_client) - コンソール管理アプリケーション
+
 ## Features
 - データベース (Firebase Firestore)
 - プッシュ通知 (Firebase Cloud Messaging)
